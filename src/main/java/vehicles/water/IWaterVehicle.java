@@ -1,4 +1,4 @@
-package water;
+package vehicles.water;
 
 import vehicles.IVehicle;
 
